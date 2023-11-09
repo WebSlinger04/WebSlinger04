@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-black?logo=UnrealEngine&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Unity-black?logo=Unity&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Houdini-black?logo=Houdini&logoColor=orange&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gimp-grey?logo=Gimp&logoColor=grey&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gimp-grey?logo=Gimp&logoColor=white&style=for-the-badge" />
 
 </div>
 <hr>
