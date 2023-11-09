@@ -23,14 +23,14 @@
 
 **Instrests**
 
-- Houdini
-- Zbrush
-
-
-**Learning**
-
 - 3D Art
 - Game Creation
 - Enviornment art
+
+**Learning**
+
+- Houdini
+- Zbrush
+
 
 <hr>
