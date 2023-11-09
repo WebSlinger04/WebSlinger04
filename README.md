@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>MagnusChase03</h1>
+  <h1>WebSlinger04</h1>
 </div>
 
 <div align="center">
@@ -23,9 +23,8 @@
 
 **Instrests**
 
-- Low level code and architecture
-- Containers
-- Machine learning
+- 3D Art
+- Game Creation
 
 <hr>
 
