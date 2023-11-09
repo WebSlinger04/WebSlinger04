@@ -3,17 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/x86/x64-grey?logo=amazonec2&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C/C++-grey?logo=c&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-orange?logo=coffeescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Linux-grey?logo=linux&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-brown?logo=redis&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blender-orange?logo=Blender&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe-red?logo=adobe&logoColor=white&style=for-the-badge" /> <br>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-black?logo=UnrealEngine&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unity-black?logo=Unity&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Houdini-black?logo=Houdini&logoColor=orange&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gimp-grey?logo=Gimp&logoColor=grey&style=for-the-badge" />
+
 </div>
 <hr>
 
@@ -27,9 +23,3 @@
 - Game Creation
 
 <hr>
-
-### Learning:
-
-<img src="https://img.shields.io/badge/Azure-blue?logo=microsoftazure&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Rust-red?logo=rust&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine Learning-grey?logo=probot&logoColor=white&style=for-the-badge" />
