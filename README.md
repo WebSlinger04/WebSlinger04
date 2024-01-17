@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Substance%20Designer-red?logo=adobe&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Photoshop-blue?logo=AdobePhotoshop&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pureref-black?logo=Photopea&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gaea-yellow?logo=GameDeveloper&logoColor=Black&style=for-the-badge" />
 
 </div>
 <hr>
