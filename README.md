@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/Unity-black?logo=Unity&logoColor=white&style=for-the-badge" /> <br>
   <img src="https://img.shields.io/badge/Adobe%20Substance%20Painter-red?logo=adobe&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Houdini-black?logo=Houdini&logoColor=orange&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gimp-grey?logo=Gimp&logoColor=white&style=for-the-badge" /> <br>
+  <img src="https://img.shields.io/badge/Gimp-grey?logo=Gimp&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SpeedTree-yellow?logo=GameDeveloper&logoColor=Black&style=for-the-badge"/> <br>
   <img src="https://img.shields.io/badge/Maya-blue?logo=Autodesk&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Adobe%20Substance%20Designer-red?logo=adobe&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Photoshop-blue?logo=AdobePhotoshop&logoColor=white&style=for-the-badge" />
